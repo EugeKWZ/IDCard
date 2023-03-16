@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+.IDCard {
+  width: 45%;
+  height: 90%;
+  font-family: "Montserrat", sans-serif;
+  margin: auto;
+  background-color: rgb(88, 61, 67);
+  line-height: 190%;
+  border-width: 10% black;
+  text-align: center;
+  padding: 1% 0 1% 0;
+}
+
+h1 {
+  padding-top: 5%;
+  color: rgb(176, 159, 174);
+  font-size: xx-large;
+}
+
+h2 {
+  font-weight: lighter;
+  color: rgb(224, 215, 223);
+  font-size: 1rem;
+}
+
+img {
+  width: 45%;
+  border-radius: 50%;
+  border-color: rgb(121, 89, 96);
+  border-style: solid;
+  border-width: 100%;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+}
+
+p {
+  text-align: left;
+  padding: 0 4% 4% 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+.cosasGenerales {
+  margin-top: 7%;
+  background-color: rgba(0, 0, 0, 0.66);
+  color: aliceblue;
+  font-size: small;
+}
+
+.presentacion {
+  background-color: rgba(0, 0, 0, 0.66);
+  color: rgb(162, 151, 161);
+  font-size: small;
+}
